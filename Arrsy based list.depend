@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683992972 source:d:\arrsy based list\array.cpp
+	"array.h"
+	<iostream>
+
+1683992922 d:\arrsy based list\array.h
+
+1683992983 source:d:\arrsy based list\main.cpp
+	<iostream>
+	"array.h"
+
